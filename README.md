@@ -1,8 +1,6 @@
-### Hi there 👋
-
-**attaullahwardag/attaullahwardag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+  <h1> Hi there 👋 </h1>
+  
+  <a href="https://twitter.com/AttaullahKhanWr"> Follow me </a>
 
 - 🔭 I’m currently working on Core php, Wordpress, Laravel
 - 🌱 I’m currently learning React 
@@ -10,6 +8,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: wardag.atta@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
